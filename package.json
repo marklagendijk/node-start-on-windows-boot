@@ -1,5 +1,5 @@
 {
-  "name": "windows-start-on-boot",
+  "name": "start-on-windows-boot",
   "version": "1.0.0",
   "description": "Simple utility to enable / disable starting a program on Windows boot.",
   "main": "index.js",
