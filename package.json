@@ -1,0 +1,27 @@
+{
+  "name": "windows-start-on-boot",
+  "version": "1.0.0",
+  "description": "Simple utility to enable / disable starting a program on Windows boot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marklagendijk/node-start-on-windows-boot"
+  },
+  "keywords": [
+    "windows",
+    "boot",
+    "start"
+  ],
+  "author": "Mark Lagendijk <mark@lagendijk.info>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marklagendijk/node-start-on-windows-boot/issues"
+  },
+  "homepage": "https://github.com/marklagendijk/node-start-on-windows-boot",
+  "dependencies": {
+    "winreg": "0.0.11"
+  }
+}
